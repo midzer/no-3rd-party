@@ -15,6 +15,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 * [Feuerwehr Eisolzried](feuerwehr-eisolzried.de)
 * [Freifunk München](https://ffmuc.net)
 * [KabeSalod](https://kabesalod.de)
+* [muCCC](https://muc.ccc.de/)
 * [Openlab Augsburg](https://openlab-augsburg.de)
 * [pr0gramm](https://pr0gramm.com)
 
