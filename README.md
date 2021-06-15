@@ -52,6 +52,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 ## Games
 
 * [lichess](https://lichess.org)
+* [Sauspiel](https://www.sauspiel.de/)
 
 ## News
 
