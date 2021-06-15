@@ -7,8 +7,23 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 ## Blogs
 
 * [Ampergai](https://ampergai.de)
-* [Fefes Blog](http://blog.fefe.de/)
-* [midzers Flimmerkiste](https://midzer.de)
+* [Drew DeVault](https://drewdevault.com/)
+* [Fefe](http://blog.fefe.de/)
+* [fribbledom](https://fribbledom.com/)
+* [hnrk.io](https://hnrk.io/)
+* [Jake Jarvis](https://jarv.is/)
+* [Kai Middleton](http://kai.middleton.de/)
+* [Laurent Le Brun](http://laurent.le-brun.eu/)
+* [lcamtuf.coredump.cx](https://lcamtuf.coredump.cx/)
+* [Matthias Ott](https://matthiasott.com/)
+* [midzer](https://midzer.de)
+* [netmeister](https://www.netmeister.org/)
+* [Netzpolitik.org](https://netzpolitik.org/)
+* [Philip Walton](https://philipwalton.com/)
+* [Profpatsch](https://profpatsch.de/)
+* [Richard Stallman](https://stallman.org/)
+* [Su-Shee](http://frollein-schmidt.de/)
+* [unimplemented](https://unimplemented.org/)
 
 ## Communities
 
