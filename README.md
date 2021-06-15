@@ -42,6 +42,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 
 * [Feed Dachau](https://feed-dachau.de)
 * [Feedi](https://feedi.net)
+* [fossjobs](https://www.fossjobs.net/)
 * [Hacker News](https://news.ycombinator.com)
 
 ## Social
