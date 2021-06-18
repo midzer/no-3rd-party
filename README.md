@@ -23,6 +23,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 * [Profpatsch](https://profpatsch.de/)
 * [Richard Stallman](https://stallman.org/)
 * [Su-Shee](http://frollein-schmidt.de/)
+* [svrnm.de](https://svrnm.de/)
 * [unimplemented](https://unimplemented.org/)
 
 ## Communities
@@ -54,6 +55,15 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 * [lichess](https://lichess.org)
 * [Sauspiel](https://www.sauspiel.de/)
 
+## Organizations
+
+* [Diaspora Foundation](https://diasporafoundation.org/)
+* [Open Knowledge Foundation Deutschland](https://okfn.de/)
+
+## Other
+* [lach-o-mat](https://www.lach-o-mat.de/)
+* [Thoughts with impact](https://thoughtswithimpact.com/)
+
 ## News
 
 * [Feed Dachau](https://feed-dachau.de)
@@ -65,6 +75,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 
 * [chaos.social](https://chaos.social)
 * [Dönieren](https://doenieren.in)
+* [Friendica](https://friendi.ca/)
 * [Shoogle](https://shoogle.net)
 
 ## Tech
@@ -78,7 +89,9 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 * [GitHub](https://github.com)
 * [GitHub Explorer](https://github-e.com)
 * [LibreSpeed](https://librespeed.org/)
+* [media.ccc.de](https://media.ccc.de/)
 * [OpenStreetMap](https://www.openstreetmap.org)
 * [Wikidata](https://www.wikidata.org/)
 * [Wikipedia](https://www.wikipedia.org)
 * [Wormhole](https://wormhole.app)
+
