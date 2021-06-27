@@ -80,6 +80,7 @@ Might be useful for your "Trusted sites" of your favourite Ad Blocker.
 
 ## Tech
 
+* [Briar](https://briarproject.org/)
 * [Debian](https://www.debian.org)
 * [Deepl](https://www.deepl.com)
 * [DevDocs](https://devdocs.io)
