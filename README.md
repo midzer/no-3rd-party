@@ -2,7 +2,7 @@
 
 A curated list of websites which do not load any obtrusive 3rd party content.
 
-Might be useful for your "Trusted sites" of your favourite Ad Blocker.
+Might be useful for "Trusted sites" of your favourite Ad Blocker.
 
 ## Blogs
 
